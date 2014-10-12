@@ -1,0 +1,24 @@
+{
+  "name": "amber-examples",
+  "version": "0.1.0",
+  "description": "Amber Examples",
+  "homepage": "http://amber-lang.net",
+  "keywords": [
+    "javascript",
+    "smalltalk",
+    "language",
+    "compiler",
+    "web"
+  ],
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/amber-smalltalk/amber-examples.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "amber-dev": "~0.1.1"
+  }
+}
